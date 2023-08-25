@@ -24,8 +24,3 @@ By the end of this project, we'll be able to:
 5. Map face images into 128-dimensional encodings using a pretrained model <br>
 6. Perform face verification and face recognition with these encodings <br>
 
-### Acknowledgements
-
-https://www.coursera.org/learn/convolutional-neural-networks
-
-https://www.deeplearning.ai/program/deep-learning-specialization/
